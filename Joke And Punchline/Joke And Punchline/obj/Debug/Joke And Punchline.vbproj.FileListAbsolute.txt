@@ -1,0 +1,10 @@
+c:\users\owlsn\documents\visual studio 2013\Projects\Joke And Punchline\Joke And Punchline\bin\Debug\Joke And Punchline.exe.config
+c:\users\owlsn\documents\visual studio 2013\Projects\Joke And Punchline\Joke And Punchline\bin\Debug\Joke And Punchline.exe
+c:\users\owlsn\documents\visual studio 2013\Projects\Joke And Punchline\Joke And Punchline\bin\Debug\Joke And Punchline.pdb
+c:\users\owlsn\documents\visual studio 2013\Projects\Joke And Punchline\Joke And Punchline\bin\Debug\Joke And Punchline.xml
+c:\users\owlsn\documents\visual studio 2013\Projects\Joke And Punchline\Joke And Punchline\obj\Debug\Joke_And_Punchline.Form1.resources
+c:\users\owlsn\documents\visual studio 2013\Projects\Joke And Punchline\Joke And Punchline\obj\Debug\Joke_And_Punchline.Resources.resources
+c:\users\owlsn\documents\visual studio 2013\Projects\Joke And Punchline\Joke And Punchline\obj\Debug\Joke And Punchline.vbproj.GenerateResource.Cache
+c:\users\owlsn\documents\visual studio 2013\Projects\Joke And Punchline\Joke And Punchline\obj\Debug\Joke And Punchline.exe
+c:\users\owlsn\documents\visual studio 2013\Projects\Joke And Punchline\Joke And Punchline\obj\Debug\Joke And Punchline.xml
+c:\users\owlsn\documents\visual studio 2013\Projects\Joke And Punchline\Joke And Punchline\obj\Debug\Joke And Punchline.pdb

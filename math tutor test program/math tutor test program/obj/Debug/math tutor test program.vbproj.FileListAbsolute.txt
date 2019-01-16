@@ -1,0 +1,10 @@
+c:\users\owlsn\documents\visual studio 2013\Projects\math tutor test program\math tutor test program\bin\Debug\math tutor test program.exe.config
+c:\users\owlsn\documents\visual studio 2013\Projects\math tutor test program\math tutor test program\bin\Debug\math tutor test program.exe
+c:\users\owlsn\documents\visual studio 2013\Projects\math tutor test program\math tutor test program\bin\Debug\math tutor test program.pdb
+c:\users\owlsn\documents\visual studio 2013\Projects\math tutor test program\math tutor test program\bin\Debug\math tutor test program.xml
+c:\users\owlsn\documents\visual studio 2013\Projects\math tutor test program\math tutor test program\obj\Debug\math_tutor_test_program.Form1.resources
+c:\users\owlsn\documents\visual studio 2013\Projects\math tutor test program\math tutor test program\obj\Debug\math_tutor_test_program.Resources.resources
+c:\users\owlsn\documents\visual studio 2013\Projects\math tutor test program\math tutor test program\obj\Debug\math tutor test program.vbproj.GenerateResource.Cache
+c:\users\owlsn\documents\visual studio 2013\Projects\math tutor test program\math tutor test program\obj\Debug\math tutor test program.exe
+c:\users\owlsn\documents\visual studio 2013\Projects\math tutor test program\math tutor test program\obj\Debug\math tutor test program.xml
+c:\users\owlsn\documents\visual studio 2013\Projects\math tutor test program\math tutor test program\obj\Debug\math tutor test program.pdb

@@ -1,0 +1,10 @@
+c:\users\owlsn\documents\visual studio 2013\Projects\Clickable Images\Clickable Images\bin\Debug\Clickable Images.exe.config
+c:\users\owlsn\documents\visual studio 2013\Projects\Clickable Images\Clickable Images\bin\Debug\Clickable Images.exe
+c:\users\owlsn\documents\visual studio 2013\Projects\Clickable Images\Clickable Images\bin\Debug\Clickable Images.pdb
+c:\users\owlsn\documents\visual studio 2013\Projects\Clickable Images\Clickable Images\bin\Debug\Clickable Images.xml
+c:\users\owlsn\documents\visual studio 2013\Projects\Clickable Images\Clickable Images\obj\Debug\Clickable_Images.Form1.resources
+c:\users\owlsn\documents\visual studio 2013\Projects\Clickable Images\Clickable Images\obj\Debug\Clickable_Images.Resources.resources
+c:\users\owlsn\documents\visual studio 2013\Projects\Clickable Images\Clickable Images\obj\Debug\Clickable Images.vbproj.GenerateResource.Cache
+c:\users\owlsn\documents\visual studio 2013\Projects\Clickable Images\Clickable Images\obj\Debug\Clickable Images.exe
+c:\users\owlsn\documents\visual studio 2013\Projects\Clickable Images\Clickable Images\obj\Debug\Clickable Images.xml
+c:\users\owlsn\documents\visual studio 2013\Projects\Clickable Images\Clickable Images\obj\Debug\Clickable Images.pdb
